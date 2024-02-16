@@ -6,10 +6,10 @@ The game features multiple levels of increasing difficulty, with faster aliens a
 
 
 HOW TO PLAY
-Step 1. Clone this repository to your local machine using git clone https://github.com/shreyanshamishra/Space-Invaders.git
-Step 1. cd Space-Invaders
-Step 2. pip install pygame 
-Step 3. run the command "python main.py"
+Step 1. Clone this repository to your local machine using git clone https://github.com/shreyanshamishra/Space-Invaders.git  also please make sure to have python installed version > 3.0
+Step 2. cd Space-Invaders
+Step 3. pip install pygame 
+Step 4. run the command "python main.py"
 
 
 Use the left and right arrow keys to move your spaceship.
